@@ -7,7 +7,7 @@ const Header = () => {
     <header>
       <div className="header">
         <img className="logo" src="img/logo.png" />
-        <p className="logo-text">Logiciel solution</p>
+        <p className="logo-text">Logiciel Solution</p>
         <Link to="/">Who we are</Link>
         <Link to="/">What we do</Link>
         <Link to="/">Work</Link>

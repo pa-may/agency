@@ -36,13 +36,14 @@
 .headertwo{
   font-size: 3rem;
   padding: 2rem 5rem;
-  color: #484958b8;
+  color: #565656;
+  color: rgb(137, 55, 55);
 }
 
 .headerthree{
   font-size: 2.5rem;
   padding: 2rem 5rem;
-  color: #484958b8;
+  color: #565656;
 }
 
 
@@ -60,7 +61,8 @@ main{
   margin: 2.5rem 10rem;
 }
 .secondary-header {
-  /* font-size: 2rem; */
+  color: #484848;
+  font-weight: 500;
 }
 
 .home__action {
@@ -129,7 +131,8 @@ main{
   color: #ffffff;
   background: #484848;
 }
-
+.btn:nth-child(2){
+  background-color: rgb(199, 40, 19);
+}
  .btn:hover{
-   background-color: #7b7b7b;
- }
+  background-color: rgb(255, 30, 0);}

@@ -32,7 +32,7 @@ const Home = () => {
         className="home__action"
       // style={{ backgroundImage: "url(img/home-banner.jpg)" }}
       >
-        <h2 className="action-text">FOCUSED ON EFFECTIVENESS.</h2>
+        <h2 className="action-text"><b>FOCUSED ON EFFECTIVENESS</b></h2>
         <h2 className="action-text">Our business has two primary concerns: placing workers
         in positions where they have an opportunity to achieve their personal goals and providing
         workers that are prepared for the tasks and environment in which they operate.</h2>
